@@ -7657,11 +7657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imbha\\source\\repos\\AngularCaseStudy\\AngularCaseStudy\\AngularCaseStudy.csproj",
+      "projectUniqueName": "C:\\Users\\imbha\\Desktop\\UEP Practical\\TekDesk-Server\\AngularCaseStudy\\AngularCaseStudy.csproj",
       "projectName": "AngularCaseStudy",
-      "projectPath": "C:\\Users\\imbha\\source\\repos\\AngularCaseStudy\\AngularCaseStudy\\AngularCaseStudy.csproj",
+      "projectPath": "C:\\Users\\imbha\\Desktop\\UEP Practical\\TekDesk-Server\\AngularCaseStudy\\AngularCaseStudy.csproj",
       "packagesPath": "C:\\Users\\imbha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imbha\\source\\repos\\AngularCaseStudy\\AngularCaseStudy\\obj\\",
+      "outputPath": "C:\\Users\\imbha\\Desktop\\UEP Practical\\TekDesk-Server\\AngularCaseStudy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imbha\\AppData\\Roaming\\NuGet\\NuGet.Config",

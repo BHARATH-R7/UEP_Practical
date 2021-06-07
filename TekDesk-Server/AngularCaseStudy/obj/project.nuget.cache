@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m2/ooO+7/cjj6qCorV8kMLP0YsdqP7m/Ipfj4saMo89D8kcq3rnPyZW9Ds0B3Nyjx53oKxo6BQ1PwQloQhyjqw==",
+  "dgSpecHash": "r3/OGZjLR3TfQcgo9XcqjuoOCESCij6LfkYGNn0vkzLzXwhi6ROGe/sKBe3i35wGjsEjZpyk+xGOtbEwW2W5uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imbha\\source\\repos\\AngularCaseStudy\\AngularCaseStudy\\AngularCaseStudy.csproj",
+  "projectFilePath": "C:\\Users\\imbha\\Desktop\\UEP Practical\\TekDesk-Server\\AngularCaseStudy\\AngularCaseStudy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imbha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\imbha\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
